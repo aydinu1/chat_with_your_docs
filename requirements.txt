@@ -1,0 +1,13 @@
+streamlit-chat==0.0.2.2
+langchain==0.0.330
+langchain-experimental==0.0.37
+streamlit==1.27.2
+pydantic-core==2.10.1
+pydantic==2.4.2
+pandas==2.1.1
+plotly==5.18.0
+matplotlib==3.8.0
+numpy==1.26.0
+scipy==1.11.3
+python-dotenv==1.0.0
+
